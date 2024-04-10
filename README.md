@@ -9,8 +9,9 @@ This project and README.md file is updated on 10.04.2024
 This project uses of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Nanodegree Program - Programming for Data Science with Python
