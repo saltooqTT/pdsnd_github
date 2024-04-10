@@ -14,4 +14,4 @@ washington.csv
 new_york_city.csv   
 
 ### Credits
-Udacity Nanodegree Program - Programming for Data Science with Python
+*Udacity Nanodegree Program - Programming for Data Science with Python*
