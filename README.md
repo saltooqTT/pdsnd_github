@@ -3,11 +3,10 @@
 ### 10.04.2024
 This project and README.md file is updated on 10.04.2024
 
-### Project Title
-Replace the Project Title
+### Bikeshare Data Project - Udacity
 
-### Description
-Describe what your project is about and what it does
+### Project Overview
+This project uses of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
 
 ### Files used
 Include the files used
